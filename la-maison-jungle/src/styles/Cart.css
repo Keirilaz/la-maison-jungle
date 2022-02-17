@@ -19,7 +19,7 @@
 	border: none;
 	font-weight: 600;
 	cursor: pointer;
-	align-self: self-start;
+	align-self: flex-start;
 	padding: 0;
 	color: white;
 }
